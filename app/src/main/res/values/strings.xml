@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Anfroid with kotlin</string>
+    <string name="btn_name">Button</string>
+</resources>
